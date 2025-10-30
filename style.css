@@ -69,6 +69,6 @@ body {
   height: 7rem;
 }
 
-.appear p {
-  font-size: 0.5rem;
+.cart-price {
+  font-size: 1.2em;
 }
